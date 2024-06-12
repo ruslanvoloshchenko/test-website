@@ -171,7 +171,7 @@
             },
             "landing_uploader": {
               "label1": "Upload image",
-              "label2": "Or just drop here",
+              "label2": "Або просто киньте сюди",
               "label3": "No image?",
               "label4": "Try one of these",
               "label": "Або просто перетягніть сюди / Ctrl + V для вставки зображення",
@@ -182,7 +182,7 @@
               "label2": "Or just drop image here"
             },
             "preview_item": {
-              "file_alert": "Don't forget to download your files. They will be discarded automatically after 60 minutes."
+              "file_alert": "Не забудьте завантажити свої файли. Вони будуть автоматично видалені через 60 хвилин."
             },
             "manipulate_switcher": {
               "remove_object": "Remove Object",
@@ -559,9 +559,9 @@
                 "title": "Install App"
               },
               "text_remover_switch": {
-                "title": "Enable text remover",
+                "title": "Увімкнути засіб видалення тексту",
                 "subtitle": "Best for text watermark",
-                "tooltip": "If the watermark is purely text, enable the text remover for improved results. Note that this may remove all text from your image."
+                "tooltip": "Якщо watermark є суто текстовим, увімкніть засіб видалення тексту для кращих результатів. Зауважте, що це може видалити весь текст із вашого зображення."
               }
             },
             "guideline": {
@@ -618,8 +618,8 @@
             },
             "misc": {
               "supportUs": "Support Us",
-              "batchModeQuestion": "Want to remove watermark from hundreds of images in seconds?",
-              "tryBatchMode": "Try Batch Mode"
+              "batchModeQuestion": "Хочете за секунди видалити watermark із сотень зображень?",
+              "tryBatchMode": "Спробуйте пакетний режим"
             }
           }
         }
