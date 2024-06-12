@@ -459,7 +459,7 @@
                             </div>
                             <div class="flex">
                                 <div class="flex gap-2">
-                                    <div class="inline-flex items-center justify-center w-full py-3 px-4 bg-primary rounded-lg text-base transition text-white hover:bg-opacity-80 cursor-pointer hidden tlg:flex w-auto justify-center items-center pro-gradient h-12 !hidden">
+                                    <div class="inline-flex items-center justify-center w-full py-3 px-4 bg-primary rounded-lg text-base transition text-white hover:bg-opacity-80 cursor-pointer hidden tlg:flex w-auto justify-center items-center pro-gradient h-12 hidden">
                                         <span class="text-center text-white text-sm font-semibold leading-tight">Unlock Pro</span>
                                     </div>
                                     <div class="sc-beqWaB glSybr mr-2"></div>
