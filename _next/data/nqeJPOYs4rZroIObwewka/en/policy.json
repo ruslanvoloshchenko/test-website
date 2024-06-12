@@ -571,8 +571,7 @@
                 "i18n": {
                     "defaultLocale": "en",
                     "locales": [
-                        "en",
-                        "uk"
+                        "en"
                     ],
                     "localeDetection": false
                 },
@@ -580,8 +579,7 @@
                     "i18n": {
                         "defaultLocale": "en",
                         "locales": [
-                            "en",
-                            "uk"
+                            "en"
                         ],
                         "localeDetection": false
                     }
