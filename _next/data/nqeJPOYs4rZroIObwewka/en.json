@@ -257,15 +257,15 @@
                                 "content": "Working on your photo Please wait..."
                             },
                             "error": {
-                                "button": "I understand",
+                                "button": "Я розумію",
                                 "content": "It's not you, it's us! We trying to fix things here! We won't take that long",
                                 "heading": "Something went wrong!"
                             },
                             "landscape": {
                                 "button": {
-                                    "ok": "I understand"
+                                    "ok": "Я розумію"
                                 },
-                                "content": "It seems you are using your phone in landscape mode. Please switch to the portrait mode to enjoy DeWatermark."
+                                "content": "Здається, ви використовуєте свій телефон у альбомній орієнтації. Перейдіть у портретний режим, щоб користуватися DeWatermark."
                             },
                             "removing": {
                                 "content": "Removing watermark",
