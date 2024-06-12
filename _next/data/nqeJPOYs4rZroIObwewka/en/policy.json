@@ -2,7 +2,7 @@
     "pageProps": {
         "_nextI18Next": {
             "initialI18nStore": {
-                "en": {
+                "uk": {
                     "home": {
                         "landing": {
                             "past_due": {
@@ -566,20 +566,20 @@
                     }
                 },
             },
-            "initialLocale": "en",
+            "initialLocale": "uk",
             "userConfig": {
                 "i18n": {
-                    "defaultLocale": "en",
+                    "defaultLocale": "uk",
                     "locales": [
-                        "en"
+                        "uk"
                     ],
                     "localeDetection": false
                 },
                 "default": {
                     "i18n": {
-                        "defaultLocale": "en",
+                        "defaultLocale": "uk",
                         "locales": [
-                            "en"
+                            "uk"
                         ],
                         "localeDetection": false
                     }
