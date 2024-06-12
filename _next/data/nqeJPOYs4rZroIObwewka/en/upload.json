@@ -13,7 +13,7 @@
               },
               "header": {
                 "pricing": "Pricing",
-                "batch_processing": "Batch Process",
+                "batch_processing": "Пакетна обробка",
                 "language": "Language",
                 "newImage": "New Image",
                 "imageSize": {
@@ -174,7 +174,7 @@
               "label2": "Or just drop here",
               "label3": "No image?",
               "label4": "Try one of these",
-              "label": "Or just drop here  /  Ctrl + V to paste image",
+              "label": "Або просто перетягніть сюди / Ctrl + V для вставки зображення",
               "label6": "Up to 50 images, max 5MB each"
             },
             "editor_uploader": {
@@ -316,7 +316,7 @@
               "h1_full": "Remove Watermark from photos online free with AI",
               "h1": "Remove Watermark from",
               "h1_2": "photos online free with AI",
-              "subtitle": "AI watermark remover detects and removes even the most annoying watermarks from images."
+              "subtitle": "Видаліть водяний знак з фотографії за допомогою штучного інтелекту."
             },
             "how_to": {
               "titleStart": "How to remove watermarks with ",
