@@ -61,7 +61,7 @@
                     }), (0,
                     i.jsx)("meta", {
                         name: "author",
-                        content: "XTeam"
+                        content: "Noblessemark"
                     }), (0,
                     i.jsx)("meta", {
                         itemProp: "image",
