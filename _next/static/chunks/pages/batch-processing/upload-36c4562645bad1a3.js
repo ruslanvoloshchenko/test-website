@@ -976,7 +976,7 @@
                                     className: "flex items-center h-[72px] pt-6 pb-2",
                                     children: [(0,
                                     i.jsx)(v.Z, {
-                                        variant: "H24B",
+                                        className: "font-semibold text-[24px] leading-[32px] text-golden",
                                         children: D("preview_item.batch_processing")
                                     }), (0,
                                     i.jsxs)("div", {
