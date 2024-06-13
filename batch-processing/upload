@@ -20,10 +20,10 @@
         <meta property="og:type" content="article"/>
         <meta property="og:description" content="Edit multiple images in seconds. Unlock productivity and efficiency with Noblessemark&#x27;s powerful batch photo editing tool."/>
         <meta property="og:site_name" content="Upload Images to Noblessemark&#x27;s Batch Editing Tool"/>
-        <link rel="shortcut icon" href="/favicon/favicon.ico"/>
+        <link rel="shortcut icon" href="/favicon/favicon.png"/>
         <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png"/>
-        <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png"/>
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png"/>
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon.png"/>
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon.png"/>
         <meta property="og:image" content="/preview.webp"/>
         <link rel="alternate" href="https://dewatermark.ai/batch-processing/upload" hreflang="x-default"/>
         <link rel="alternate" href="https://dewatermark.ai/batch-processing/upload" hreflang="uk"/>

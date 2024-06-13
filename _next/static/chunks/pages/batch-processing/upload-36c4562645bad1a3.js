@@ -101,7 +101,7 @@
                     }), (0,
                     i.jsx)("link", {
                         rel: "shortcut icon",
-                        href: "/favicon/favicon.ico"
+                        href: "/favicon/favicon.png"
                     }), (0,
                     i.jsx)("link", {
                         rel: "apple-touch-icon",
@@ -112,13 +112,13 @@
                         rel: "icon",
                         type: "image/png",
                         sizes: "32x32",
-                        href: "/favicon/favicon-32x32.png"
+                        href: "/favicon/favicon.png"
                     }), (0,
                     i.jsx)("link", {
                         rel: "icon",
                         type: "image/png",
                         sizes: "16x16",
-                        href: "/favicon/favicon-16x16.png"
+                        href: "/favicon/favicon.png"
                     }), (0,
                     i.jsx)("meta", {
                         property: "og:image",

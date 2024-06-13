@@ -1759,9 +1759,9 @@ index 174a600..f63a035 100644
 -        <meta property="og:site_name" content="Upload Images to DeWatermark&#x27;s Batch Editing Tool"/>
 +        <meta property="og:description" content="Edit multiple images in seconds. Unlock productivity and efficiency with Noblessemark&#x27;s powerful batch photo editing tool."/>
 +        <meta property="og:site_name" content="Upload Images to Noblessemark&#x27;s Batch Editing Tool"/>
-         <link rel="shortcut icon" href="/favicon/favicon.ico"/>
+         <link rel="shortcut icon" href="/favicon/favicon.png"/>
          <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png"/>
-         <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png"/>
+         <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon.png"/>
 @@ -501,7 +501,7 @@
              </div>
              <div id="modal-landscape" class="fixed inset-0 z-50 bg-base-content-primary bg-opacity-70 hidden justify-center items-center lg:landscape:flex tlg:hidden">
@@ -1978,9 +1978,9 @@ index 3de034d..7d69c22 100644
 -        <meta property="og:site_name" content="Upload Images to DeWatermark&#x27;s Batch Editing Tool"/>
 +        <meta property="og:description" content="Edit multiple images in seconds. Unlock productivity and efficiency with Noblessemark&#x27;s powerful batch photo editing tool."/>
 +        <meta property="og:site_name" content="Upload Images to Noblessemark&#x27;s Batch Editing Tool"/>
-         <link rel="shortcut icon" href="/favicon/favicon.ico"/>
+         <link rel="shortcut icon" href="/favicon/favicon.png"/>
          <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png"/>
-         <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png"/>
+         <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon.png"/>
 @@ -501,7 +501,7 @@
              </div>
              <div id="modal-landscape" class="fixed inset-0 z-50 bg-base-content-primary bg-opacity-70 hidden justify-center items-center lg:landscape:flex tlg:hidden">
