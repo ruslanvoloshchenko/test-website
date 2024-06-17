@@ -503,7 +503,7 @@
                             var e = URL.createObjectURL(N)
                               , t = document.createElement("a");
                             t.href = e,
-                            t.download = "dewatermark_".concat((new Date).getTime(), ".").concat(b.type.split("/")[1]),
+                            t.download = "Noblessemark_".concat((new Date).getTime(), ".").concat(b.type.split("/")[1]),
                             document.body.appendChild(t),
                             t.click(),
                             document.body.removeChild(t),
