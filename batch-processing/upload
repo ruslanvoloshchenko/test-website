@@ -817,7 +817,7 @@
                                         },
                                         "meta": {
                                             "title": "Remove watermark from images, AI watermark remover | Dewatermark",
-                                            "description": "Remove watermark from photos in a flash online with Dewatermark.AI. Watermark remover using AI Technology to clear proof from images completely free."
+                                            "description": "Remove watermark from photos in a flash online with Noblessemark. Watermark remover using AI Technology to clear proof from images completely free."
                                         },
                                         "preview_item": {
                                             "select_upscale_size": "Select upscale size",
@@ -860,11 +860,11 @@
                                         "app_ads": {
                                             "title_start": "Get ",
                                             "title_end": "mobile app",
-                                            "subtitle": "Dewatermark.AI app is available on Apple Store \u0026 Google Play Store. Our app has been used to enhance photos by users around the world."
+                                            "subtitle": "Noblessemark app is available on Apple Store \u0026 Google Play Store. Our app has been used to enhance photos by users around the world."
                                         },
                                         "upside": {
                                             "titleStart": "Choose ",
-                                            "titleHighlight": "Dewatermark.AI",
+                                            "titleHighlight": "Noblessemark",
                                             "titleEnd": " to remove watermarks from your images",
                                             "upside_1": {
                                                 "titleStart": "Effectively remove ",
@@ -899,15 +899,15 @@
                                             },
                                             "upside_6": {
                                                 "title": "Free \u0026 Compatible on all Devices",
-                                                "content": "Dewatermark.AI can be accessed using all web browsers. Our tool is also compatible with both iOS and Android devices.",
+                                                "content": "Noblessemark can be accessed using all web browsers. Our tool is also compatible with both iOS and Android devices.",
                                                 "alt": "Free to use and all devices compatible"
                                             }
                                         },
                                         "feature": {
                                             "feature_1": {
                                                 "title": "Free To Use",
-                                                "content": "Dewatermark.AI is free to use. You do not need to pay anything to delete watermark from image with us.",
-                                                "alt": "Dewatermark.AI is free"
+                                                "content": "Noblessemark is free to use. You do not need to pay anything to delete watermark from image with us.",
+                                                "alt": "Noblessemark is free"
                                             },
                                             "feature_2": {
                                                 "title": "Fun Multiplied",
@@ -968,7 +968,7 @@
                                         "faq": {
                                             "title": "Frequently Asked Questions",
                                             "subtitle": "Stuck something - we're here to help.",
-                                            "answer1": "You can read our guide above for an easy to follow 4 steps guide to \u003ca href='https://Dewatermark.AI'\u003eremove watermark\u003c/a\u003e with our AI tool. In case you need a reminder, simply Upload image -\u003e Wait for result -\u003e Manually edit further -\u003e Download.",
+                                            "answer1": "You can read our guide above for an easy to follow 4 steps guide to \u003ca href='https://Noblessemark'\u003eremove watermark\u003c/a\u003e with our AI tool. In case you need a reminder, simply Upload image -\u003e Wait for result -\u003e Manually edit further -\u003e Download.",
                                             "answer2": "Currently, we support watermark removal for JPG \u0026 PNG file types only. We plan to upgrade this in the near future.",
                                             "answer3": "Yes. In situations when the watermarks were not fully removed by our AI, we provide a manual brush as part of the process for you to further perfect your photos.",
                                             "answer4": "Our tool supports users on iOS devices and works seamlessly on Safari or your chosen mobile web browsers. In order to remove watermarks with iOS devices, simply follow our instructions above. ",
@@ -979,11 +979,11 @@
                                             "answer9": "Yes. Our watermark remover ai tool is completely free to use and we plan to keep it that way for the future. ",
                                             "question1": "How do I remove watermarks from photos?",
                                             "question2": "What file types are supported to remove watermark? ",
-                                            "question3": "Can I manually remove watermarks with Dewatermark.AI ?",
+                                            "question3": "Can I manually remove watermarks with Noblessemark ?",
                                             "question4": "How do I remove image watermarks using iOS devices?",
                                             "question5": "Does this tool work on Android devices?",
                                             "question6": "Is using a watermark remover illegal? ",
-                                            "question7": "Does Dewatermark.AI support multiple images watermarks removal?",
+                                            "question7": "Does Noblessemark support multiple images watermarks removal?",
                                             "question8": "Can any watermarks be removed? ",
                                             "question9": "Is this tool free to use?"
                                         }
@@ -1236,7 +1236,7 @@
                     "url": "https://dewatermark.ai/",
                     "logo": "https://dewatermark.ai/images/watermark-remover/logo_dewatermark.png",
                     "image": "https://dewatermark.ai/images/watermark-remover/banner-dewatermark.jpg",
-                    "description": "Watermark Remover Tool, Remove logos and watermarks in a flash online with Dewatermark.AI - Remove Watermark Online from images using AI Technology completely free.",
+                    "description": "Watermark Remover Tool, Remove logos and watermarks in a flash online with Noblessemark - Remove Watermark Online from images using AI Technology completely free.",
                     "email": "dewatermark@gmail.com",
                     "sameAs": [
                         "https://twitter.com/dewatermarkai",
